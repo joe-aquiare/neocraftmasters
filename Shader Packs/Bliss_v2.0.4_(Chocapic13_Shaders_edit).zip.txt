@@ -1,0 +1,8 @@
+#Mon Mar 04 14:01:01 EST 2024
+SKY_CONTRIBUTION_IN_SSRT=true
+FinalB=0.868245
+AmbientLight_G=1.0
+AmbientLight_R=1.0
+CONTRAST=1.08
+SATURATION=0.1
+ambient_temp=6000
